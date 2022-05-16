@@ -23,6 +23,7 @@ main {
   padding-bottom: 66px;
   background-color: #242833;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 22px 70px 4px;
+  top: -16px;
 }
 
 h1 {
